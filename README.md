@@ -4,7 +4,7 @@ A modern, interactive Tic-Tac-Toe game built with React and Vite. Features a cle
 
 ## 🎮 Live Demo
 
-**[Play the game here!](https://mgooood.github.io/react-tic-tac-toe/)**
+**[Play the game here!](https://mgooood.github.io/learning-react_tic-tac-toe/)**
 
 ## ✨ Features
 
